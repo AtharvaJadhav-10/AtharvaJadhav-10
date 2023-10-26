@@ -1,5 +1,5 @@
 ###  Hi there 👋 I’m Atharva
-Second year student pursuing bachelor's degree in computer science and enginnering at MGM University Aurangabad.
+final year student pursuing bachelor's degree in computer science and enginnering at MGM University Aurangabad.
 I am passionate about technology and problem solving. 
 
 - 👀 I’m interested in coding, data science, machine learning, artificial intelligence and web development.
